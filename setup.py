@@ -47,6 +47,6 @@ setup(
     keywords='ITK InsightToolkit MGH Slicer',
     url=r'https://itk.org/',
     install_requires=[
-        r'itk>=5.1.0.post3'
+        r'itk>=5.1.1'
     ]
     )
