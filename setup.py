@@ -11,7 +11,7 @@ except ImportError:
 
 setup(
     name='itk-iomgh',
-    version='1.1.0',
+    version='1.1.1',
     author='Insight Software Consortium',
     author_email='community@itk.org',
     packages=['itk'],
@@ -47,6 +47,6 @@ setup(
     keywords='ITK InsightToolkit MGH Slicer',
     url=r'https://itk.org/',
     install_requires=[
-        r'itk>=5.2rc1'
+        r'itk>=5.3rc3'
     ]
     )
