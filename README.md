@@ -1,7 +1,7 @@
 ITKMGHImageIO
 =============
 
-![Build, test, package status](https://github.com/InsightSoftwareConsortium/ITKMGHImageIO/workflows/Build,%20test,%20package/badge.svg)
+[![Build, test, package status](https://github.com/InsightSoftwareConsortium/ITKMGHImageIO/actions/workflows/build-test-package.yml/badge.svg)](https://github.com/InsightSoftwareConsortium/ITKMGHImageIO/actions/workflows/build-test-package.yml)
 [![PyPI Version](https://img.shields.io/pypi/v/itk-iomgh.svg)](https://pypi.python.org/pypi/itk-iomgh)
 
 ITK remote module for IO of images stored in `mgh`, `mgz` and `mgh.gz` formats.
