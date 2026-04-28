@@ -1,6 +1,25 @@
 ITKMGHImageIO
 =============
 
+> **⚠️ Migrated to ITK main — this repository is archived.**
+>
+> As of 2026-04-28, the `MGHIO` module has been ingested into the
+> main ITK source tree. The authoritative location is:
+>
+>   https://github.com/InsightSoftwareConsortium/ITK/tree/main/Modules/IO/MGHIO
+>
+> See `Modules/IO/MGHIO/README.md` in the ITK tree for details on
+> what moved and what remains in this archived repo.
+>
+> This repository is retained read-only for historical reference
+> (deep git history, paper material, example assets not migrated to
+> ITK).
+>
+> Related:
+> - ITK ingest PR: [InsightSoftwareConsortium/ITK#6137](https://github.com/InsightSoftwareConsortium/ITK/pull/6137)
+> - ITK ingest merge commit: [InsightSoftwareConsortium/ITK@2e61183c46](https://github.com/InsightSoftwareConsortium/ITK/commit/2e61183c46)
+> - Consolidation issue: [InsightSoftwareConsortium/ITK#6060](https://github.com/InsightSoftwareConsortium/ITK/issues/6060)
+
 [![Build, test, package status](https://github.com/InsightSoftwareConsortium/ITKMGHImageIO/actions/workflows/build-test-package.yml/badge.svg)](https://github.com/InsightSoftwareConsortium/ITKMGHImageIO/actions/workflows/build-test-package.yml)
 [![PyPI Version](https://img.shields.io/pypi/v/itk-iomgh.svg)](https://pypi.python.org/pypi/itk-iomgh)
 
@@ -25,3 +44,5 @@ In September 2015, starting with Slicer commit [Slicer/Slicer@184e907df](https:/
 Finally, in December 2021, the project originally created in the `Slicer` GitHub organization was transferred to the `InsightSoftwareConsortium` GitHub organization and re-forked into the Slicer one. The
 ITK remote module was also updated to reference the project in the InsightSoftwareConsortium organization. See [InsightSoftwareConsortium/ITK@f84c9ef09](https://github.com/InsightSoftwareConsortium/ITK/commit/f84c9ef0903ff662e6716db2b138509505e85072).
 
+In April 2026, the module was ingested into ITK main (see migration
+notice above) and this repository was archived.
